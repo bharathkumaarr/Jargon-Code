@@ -1,4 +1,5 @@
 #%%
+#""""
 def cooking(recipe):
     def cooking_recipe():
         print(recipe.__doc__)
